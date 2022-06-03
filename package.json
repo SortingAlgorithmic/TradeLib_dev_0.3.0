@@ -1,0 +1,15 @@
+{
+  "name": "tradelib",
+  "version": "0.3.0",
+  "description": "a discord bot that tracks crypto/option plays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Hewitt",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.7.0",
+    "node-fetch": "^3.2.5"
+  }
+}
